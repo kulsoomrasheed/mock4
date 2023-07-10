@@ -1,0 +1,133 @@
+{
+ 
+      "results": [
+        {
+          "id":1,
+          "category": "Sports",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+          "correct_answer": "Mazda",
+          "incorrect_answers": [
+            "Toyota",
+            "Subaru",
+            "Nissan"
+          ]
+        },
+        {
+          "id":2,
+          "category": "Entertainment: Music",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which Disney character sings the song &quot;A Dream is a Wish Your Heart Makes&quot;?",
+          "correct_answer": "Cinderella",
+          "incorrect_answers": [
+            "Belle",
+            "Snow White",
+            "Pocahontas"
+          ]
+        },
+        {
+          "id":3,
+          "category": "Science & Nature",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "About how old is Earth?",
+          "correct_answer": "4.5 Billion Years",
+          "incorrect_answers": [
+            "3.5 Billion Years",
+            "2.5 Billion Years",
+            "5.5 Billion Years"
+          ]
+        },
+        {
+          "id":4,
+          "category": "Entertainment: Music",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Who was the lead singer and frontman of rock band R.E.M?",
+          "correct_answer": "Michael Stipe",
+          "incorrect_answers": [
+            "Chris Martin",
+            "Thom Yorke",
+            "George Michael"
+          ]
+        },
+        {
+          "id":5,
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Which gaming series includes &quot;The Diabolical Box&quot; and &quot;The Curious Village&quot;?",
+          "correct_answer": "Professor Layton",
+          "incorrect_answers": [
+            "Persona",
+            "Etrian Odyssey",
+            "Sam &amp; Max"
+          ]
+        },
+        {
+          "id":6,
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "In the 1980s, a service called Gameline allowed users to download games to what console?",
+          "correct_answer": "Atari 2600",
+          "incorrect_answers": [
+            "Sega Genesis",
+            "Nintendo Entertainment System",
+            "ColecoVision"
+          ]
+        },
+        {
+          "id":7,
+          "category": "Entertainment: Video Games",
+          "type": "boolean",
+          "difficulty": "medium",
+          "question": "Minecraft wasn&rsquo;t the original name to Minecraft.",
+          "correct_answer": "True",
+          "incorrect_answers": [
+            "False"
+          ]
+        },
+        {
+          "id":8,
+          "category": "Entertainment: Comics",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Better known by his nickname Logan, what is Wolverine&#039;s birth name?",
+          "correct_answer": "James Howlett",
+          "incorrect_answers": [
+            "Logan Wolf",
+            "Thomas Wilde",
+            "John Savage"
+          ]
+        },
+        {
+          "id":9,
+          "category": "Entertainment: Music",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which European capital city gives its name to a 1981 song by Ultravox?",
+          "correct_answer": "Vienna",
+          "incorrect_answers": [
+            "Berlin",
+            "Paris",
+            "Brussels"
+          ]
+        },
+        {
+          "id":10,
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "In &quot;Xenoblade Chronicles 2&quot;, Which party member cannot use normal blades?",
+          "correct_answer": "Tora",
+          "incorrect_answers": [
+            "Rex",
+            "Zeke",
+            "Nia"
+          ]
+        }
+      ]
+}
